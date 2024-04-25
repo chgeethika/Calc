@@ -1,5 +1,5 @@
 # Ex.08 Design of a Standard Calculator
-## Date:
+## Date:25/04/2024
 
 ## AIM:
 To design a web application for a standard calculator with minimum five operations.
@@ -144,8 +144,9 @@ calc.html
 
 
 ## OUTPUT:
-![alt text](<sand/calcapp/static/Screenshot (446).png>)
-![alt text](<sand/calcapp/static/Screenshot (447).png>)
+![alt text](<Screenshot (446).png>)
+![alt text](<Screenshot (446).png>)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
