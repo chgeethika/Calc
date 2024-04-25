@@ -145,7 +145,7 @@ calc.html
 
 ## OUTPUT:
 ![alt text](<Screenshot (446).png>)
-![alt text](<Screenshot (446).png>)
+![alt text](<Screenshot (447).png>)
 
 
 ## RESULT:
